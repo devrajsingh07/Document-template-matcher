@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "IEEE Research Paper Template",
+    "category": "research-paper",
+    "description": "Two-column academic paper format with abstract, keywords, methodology, results, and references.",
+    "fileName": "ieee-research-paper-template.docx",
+    "keywords": ["abstract", "keywords", "introduction", "methodology", "results", "references", "doi", "conference paper"]
+  },
+  {
+    "id": 2,
+    "name": "Journal Article Research Template",
+    "category": "research-paper",
+    "description": "Formal journal layout for academic publication with literature review and conclusion sections.",
+    "fileName": "journal-article-template.pdf",
+    "keywords": ["abstract", "literature review", "research methodology", "findings", "citation", "bibliography", "journal"]
+  },
+  {
+    "id": 3,
+    "name": "Modern Professional CV",
+    "category": "cv",
+    "description": "Clean CV layout for education, skills, projects, work experience, and achievements.",
+    "fileName": "modern-professional-cv.docx",
+    "keywords": ["resume", "curriculum vitae", "education", "skills", "experience", "projects", "achievements"]
+  },
+  {
+    "id": 4,
+    "name": "Fresher Resume Template",
+    "category": "cv",
+    "description": "CV template for students and freshers with objective, academics, skills, and internships.",
+    "fileName": "fresher-resume-template.docx",
+    "keywords": ["career objective", "education", "technical skills", "internship", "certifications", "projects"]
+  },
+  {
+    "id": 5,
+    "name": "Participation Certificate Template",
+    "category": "certificate",
+    "description": "Certificate layout for workshops, seminars, competitions, and participation events.",
+    "fileName": "participation-certificate-template.pdf",
+    "keywords": ["certificate", "awarded", "participation", "presented to", "organized by", "date"]
+  },
+  {
+    "id": 6,
+    "name": "Achievement Certificate Template",
+    "category": "certificate",
+    "description": "Formal achievement certificate template for winners, toppers, and award recipients.",
+    "fileName": "achievement-certificate-template.pdf",
+    "keywords": ["certificate of achievement", "awarded to", "recognition", "successfully completed", "signature"]
+  },
+  {
+    "id": 7,
+    "name": "Business Letter Template",
+    "category": "letter",
+    "description": "Official letter format with sender details, subject, salutation, body, and closing.",
+    "fileName": "business-letter-template.docx",
+    "keywords": ["dear sir", "subject", "yours sincerely", "regards", "address", "date"]
+  },
+  {
+    "id": 8,
+    "name": "Invoice Template",
+    "category": "invoice",
+    "description": "Invoice format with invoice number, billing details, item table, tax, and total amount.",
+    "fileName": "invoice-template.xlsx",
+    "keywords": ["invoice", "bill to", "amount", "quantity", "rate", "tax", "total"]
+  },
+  {
+    "id": 9,
+    "name": "Research Paper Template",
+    "category": "research-paper",
+    "description": "Research paper format for final year reports and academic submissions.",
+    "fileName": "research-paper",
+    "keywords": ["research paper", "abstract", "introduction", "conclusion", "references"]
+  },
+  {
+    "id": 10,
+    "name": "IEEE Solar Tracking Research Paper",
+    "category": "research-paper",
+    "description": "IEEE research paper based on solar tracking system and engineering project documentation.",
+    "fileName": "IEEE_Sun_Tracking_Solar_Panel-1776593094450-e8b747b1.docx",
+    "keywords": ["ieee", "solar tracking", "research methodology", "results", "references"]
+  },
+  {
+    "id": 11,
+    "name": "Course Completion Certificate",
+    "category": "certificate",
+    "description": "Certificate for completing a course or training program.",
+    "fileName": "Course-Completion-Certificate-1776596103828-f2fb4c21.pdf",
+    "keywords": ["course completion", "successfully completed", "certificate", "training", "date"]
+  },
+  {
+    "id": 12,
+    "name": "Internship Certificate Template",
+    "category": "certificate",
+    "description": "Certificate for internship completion issued by a company or institution.",
+    "fileName": "Internship-Certificate-Template--1776596140955-79226076.pdf",
+    "keywords": ["internship certificate", "certifies", "training period", "organization", "signature"]
+  },
+  {
+    "id": 13,
+    "name": "Certificate Template 4",
+    "category": "certificate",
+    "description": "Completion certificate with signer block and recipient details.",
+    "fileName": "Certificate-Template-4-1776596195870-1534a802.pdf",
+    "keywords": ["completion certificate", "presented to", "signature", "date", "recognition"]
+  },
+  {
+    "id": 14,
+    "name": "Certificate Template 3",
+    "category": "certificate",
+    "description": "Internship certificate with duration, organization name, and award text.",
+    "fileName": "Certificate-Template-3-1776596225298-55129bbd.pdf",
+    "keywords": ["internship", "certificate", "duration", "organization", "awarded"]
+  },
+  {
+    "id": 15,
+    "name": "Invoice Template",
+    "category": "invoice",
+    "description": "Vehicle service invoice with labour, parts, tax, and payment details.",
+    "fileName": "Car-Service-Bill-1776596483961-ed2154c3.pdf",
+    "keywords": ["service bill", "invoice number", "payment", "tax", "total amount", "car service"]
+  },
+  {
+    "id": 16,
+    "name": "Invoice Template 2",
+    "category": "invoice",
+    "description": "Payment invoice for service charges and final amount summary.",
+    "fileName": "Paymment-Bill-1776597118551-80f7fbc0.pdf",
+    "keywords": ["payment receipt", "subtotal", "tax", "bill to", "amount due"]
+  },
+  {
+    "id": 17,
+    "name": "Application Template",
+    "category": "letter",
+    "description": "Formal application letter template for office and academic use.",
+    "fileName": "APPLICATION-1776597296919-74a0f5ee.pdf",
+    "keywords": ["application", "respected sir", "subject", "yours faithfully", "request"]
+  },
+  {
+    "id": 18,
+    "name": "Job Letter Template",
+    "category": "letter",
+    "description": "Job application cover letter with greeting, body, and closing.",
+    "fileName": "APPLICATION-2-1776597420286-5cb8cc6d.pdf",
+    "keywords": ["job application", "cover letter", "dear hiring manager", "subject", "sincerely"]
+  },
+  {
+    "id": 19,
+    "name": "Data Science CV Template",
+    "category": "cv",
+    "description": "CV for data scientist and software engineer roles with projects and skills.",
+    "fileName": "KrishCV-1776597602805-f782647d.pdf",
+    "keywords": ["data scientist", "software engineer", "skills", "projects", "experience", "education"]
+  },
+  {
+    "id": 20,
+    "name": "Full Stack Developer CV Template",
+    "category": "cv",
+    "description": "Developer CV template with profile summary, stack, projects, and internship experience.",
+    "fileName": "MY-CV-1--1776597643890-99ce88ef.pdf",
+    "keywords": ["full stack", "resume", "technical skills", "projects", "internship", "github"]
+  },
+  {
+    "id": 21,
+    "name": "Conference Paper Template",
+    "category": "research-paper",
+    "description": "Conference-ready paper template with author block, abstract, keywords, and references.",
+    "fileName": "conference-paper-template.docx",
+    "keywords": ["conference", "abstract", "keywords", "author affiliation", "references"]
+  },
+  {
+    "id": 22,
+    "name": "Review Paper Template",
+    "category": "research-paper",
+    "description": "Structured review paper format with literature survey, comparison table, and conclusion.",
+    "fileName": "review-paper-template.docx",
+    "keywords": ["review paper", "literature survey", "comparison", "analysis", "conclusion"]
+  },
+  {
+    "id": 23,
+    "name": "Capstone Project Research Template",
+    "category": "research-paper",
+    "description": "Academic project paper template with problem statement, proposed system, implementation, and results.",
+    "fileName": "capstone-project-paper-template.docx",
+    "keywords": ["problem statement", "proposed system", "implementation", "results", "future scope"]
+  },
+  {
+    "id": 24,
+    "name": "Science Journal Manuscript Template",
+    "category": "research-paper",
+    "description": "Journal manuscript format for science and engineering domains with citation sections.",
+    "fileName": "science-journal-manuscript-template.docx",
+    "keywords": ["manuscript", "journal", "citation", "bibliography", "discussion", "doi"]
+  },
+  {
+    "id": 25,
+    "name": "Case Study Research Template",
+    "category": "research-paper",
+    "description": "Research case study format with objectives, methodology, observations, and findings.",
+    "fileName": "case-study-research-template.docx",
+    "keywords": ["case study", "objectives", "methodology", "observations", "findings"]
+  },
+  {
+    "id": 26,
+    "name": "Campus Placement Resume",
+    "category": "cv",
+    "description": "Fresher resume for campus placements with objective, academics, projects, and certifications.",
+    "fileName": "campus-placement-resume.docx",
+    "keywords": ["career objective", "academics", "projects", "certifications", "placement"]
+  },
+  {
+    "id": 27,
+    "name": "Software Engineer Resume",
+    "category": "cv",
+    "description": "Professional software engineer CV with technical skills, experience, and GitHub profile.",
+    "fileName": "software-engineer-resume.docx",
+    "keywords": ["software engineer", "technical skills", "experience", "github", "linkedin"]
+  },
+  {
+    "id": 28,
+    "name": "Internship CV Template",
+    "category": "cv",
+    "description": "Student CV for internship applications with summary, projects, coursework, and contact details.",
+    "fileName": "internship-cv-template.docx",
+    "keywords": ["internship", "student", "projects", "coursework", "contact", "education"]
+  },
+  {
+    "id": 29,
+    "name": "Minimal One Page CV",
+    "category": "cv",
+    "description": "Compact one page resume with profile, key skills, experience, and education.",
+    "fileName": "minimal-one-page-cv.docx",
+    "keywords": ["one page resume", "profile", "skills", "experience", "education"]
+  },
+  {
+    "id": 30,
+    "name": "Academic CV Template",
+    "category": "cv",
+    "description": "Academic curriculum vitae with publications, projects, education, and achievements.",
+    "fileName": "academic-cv-template.docx",
+    "keywords": ["curriculum vitae", "publications", "education", "achievements", "research"]
+  },
+  {
+    "id": 31,
+    "name": "Training Completion Certificate",
+    "category": "certificate",
+    "description": "Formal certificate for training completion with recipient, program, and date fields.",
+    "fileName": "training-completion-certificate.pdf",
+    "keywords": ["training completion", "certificate", "presented to", "date", "signature"]
+  },
+  {
+    "id": 32,
+    "name": "Workshop Participation Certificate",
+    "category": "certificate",
+    "description": "Certificate for workshop participation with organizer and event details.",
+    "fileName": "workshop-participation-certificate.pdf",
+    "keywords": ["workshop", "participation", "organized by", "certificate", "event"]
+  },
+  {
+    "id": 33,
+    "name": "Excellence Award Certificate",
+    "category": "certificate",
+    "description": "Recognition certificate for excellence, top performance, and merit awards.",
+    "fileName": "excellence-award-certificate.pdf",
+    "keywords": ["award", "recognition", "awarded to", "merit", "excellence"]
+  },
+  {
+    "id": 34,
+    "name": "Appreciation Certificate",
+    "category": "certificate",
+    "description": "Certificate of appreciation for contribution, support, and participation.",
+    "fileName": "appreciation-certificate.pdf",
+    "keywords": ["certificate of appreciation", "contribution", "support", "presented to", "appreciation"]
+  },
+  {
+    "id": 35,
+    "name": "Intern Performance Certificate",
+    "category": "certificate",
+    "description": "Intern certificate mentioning duration, department, and performance remarks.",
+    "fileName": "intern-performance-certificate.pdf",
+    "keywords": ["internship certificate", "duration", "department", "performance", "company"]
+  },
+  {
+    "id": 36,
+    "name": "Leave Application Letter",
+    "category": "letter",
+    "description": "Formal leave application with subject, reason, duration, and closing.",
+    "fileName": "leave-application-letter.docx",
+    "keywords": ["leave application", "subject", "respected sir", "kindly grant", "yours faithfully"]
+  },
+  {
+    "id": 37,
+    "name": "Request Letter Template",
+    "category": "letter",
+    "description": "Official request letter for permissions, approvals, and document requests.",
+    "fileName": "request-letter-template.docx",
+    "keywords": ["request letter", "approval", "kindly", "subject", "regards"]
+  },
+  {
+    "id": 38,
+    "name": "Cover Letter Template",
+    "category": "letter",
+    "description": "Job cover letter with greeting, role interest, experience summary, and sign-off.",
+    "fileName": "cover-letter-template.docx",
+    "keywords": ["cover letter", "dear hiring manager", "application for", "sincerely", "resume attached"]
+  },
+  {
+    "id": 39,
+    "name": "College Application Letter",
+    "category": "letter",
+    "description": "Academic application letter for college, hostel, scholarship, or department requests.",
+    "fileName": "college-application-letter.docx",
+    "keywords": ["application", "respected sir", "college", "request", "yours obediently"]
+  },
+  {
+    "id": 40,
+    "name": "Recommendation Request Letter",
+    "category": "letter",
+    "description": "Letter template to request recommendation or endorsement from faculty or manager.",
+    "fileName": "recommendation-request-letter.docx",
+    "keywords": ["recommendation", "request", "dear professor", "regards", "thank you"]
+  },
+  {
+    "id": 41,
+    "name": "GST Tax Invoice",
+    "category": "invoice",
+    "description": "Tax invoice with GST number, taxable amount, tax split, and grand total.",
+    "fileName": "gst-tax-invoice.xlsx",
+    "keywords": ["gst", "tax invoice", "invoice number", "subtotal", "cgst", "sgst", "grand total"]
+  },
+  {
+    "id": 42,
+    "name": "Service Billing Template",
+    "category": "invoice",
+    "description": "Invoice for professional services with service items, rates, taxes, and due date.",
+    "fileName": "service-billing-template.xlsx",
+    "keywords": ["service bill", "rate", "quantity", "tax", "due date", "payment terms"]
+  },
+  {
+    "id": 43,
+    "name": "Retail Sales Invoice",
+    "category": "invoice",
+    "description": "Sales invoice with itemized products, quantity, amount, discount, and total.",
+    "fileName": "retail-sales-invoice.xlsx",
+    "keywords": ["sales invoice", "item", "quantity", "discount", "amount", "total amount"]
+  },
+  {
+    "id": 44,
+    "name": "Payment Receipt Template",
+    "category": "invoice",
+    "description": "Receipt and payment confirmation template with payer details and amount received.",
+    "fileName": "payment-receipt-template.pdf",
+    "keywords": ["payment receipt", "received from", "amount received", "receipt number", "date"]
+  },
+  {
+    "id": 45,
+    "name": "Proforma Invoice Template",
+    "category": "invoice",
+    "description": "Pre-sale proforma invoice with quotation style line items and total estimate.",
+    "fileName": "proforma-invoice-template.xlsx",
+    "keywords": ["proforma invoice", "quotation", "line items", "estimate", "total"]
+  }
+]

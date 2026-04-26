@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DocuMatch Templates</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">
+        <span class="brand-mark">D</span>
+        <span>DocuMatch</span>
+      </a>
+      <nav aria-label="Main navigation">
+        <a href="#match">Match</a>
+        <a href="#templates">Templates</a>
+        <a href="#add">Add Template</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img
+          src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=80"
+          alt="Documents and office desk"
+        />
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+          <p class="eyebrow">Smart document template matching</p>
+          <h1>Find the right templates and similar documents.</h1>
+          <p>
+            Upload a research paper, CV, certificate, letter, or invoice and get exact matching saved templates for that document type.
+          </p>
+          <a class="hero-action" href="#match">Start matching</a>
+        </div>
+      </section>
+
+      <section class="stats" aria-label="Project highlights">
+        <article>
+          <strong>5</strong>
+          <span>document categories</span>
+        </article>
+        <article>
+          <strong id="templateCount">0</strong>
+          <span>saved templates</span>
+        </article>
+        <article>
+          <strong>Weighted</strong>
+          <span>keyword scoring</span>
+        </article>
+      </section>
+
+      <section id="match" class="match-section">
+        <div class="section-copy">
+          <p class="eyebrow">Upload and match</p>
+          <h2>One upload, category-wise results.</h2>
+          <p>
+            The matcher checks document words, filename hints, and document structure before showing only exact matching templates.
+          </p>
+        </div>
+
+        <form id="matchForm" class="upload-box">
+          <label for="document">Choose document</label>
+          <input id="document" name="document" type="file" accept=".txt,.pdf,.doc,.docx,.rtf" required />
+          <button type="submit">Find matching templates</button>
+          <p>Works best when the file contains readable text.</p>
+        </form>
+      </section>
+
+      <section class="result-section">
+        <div class="result-summary">
+          <p class="eyebrow">Detected result</p>
+          <h2 id="detected">No document checked yet</h2>
+          <p id="message">Upload a file to see exact matching templates.</p>
+        </div>
+        <div id="templateResults" class="template-grid"></div>
+      </section>
+
+      <section id="templates" class="library-section">
+        <div class="section-heading">
+          <p class="eyebrow">Saved library</p>
+          <h2>Available templates</h2>
+          <p>Only templates from the detected category appear after upload.</p>
+        </div>
+        <div id="allTemplates" class="template-grid"></div>
+      </section>
+
+      <section id="add" class="add-section">
+        <div class="image-panel">
+          <img
+            src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=80"
+            alt="Organized documents on a desk"
+          />
+        </div>
+
+        <form id="templateForm" class="template-form">
+          <p class="eyebrow">Template library</p>
+          <h2>Add a template</h2>
+
+          <label for="name">Template name</label>
+          <input id="name" name="name" type="text" placeholder="Academic Research Paper" required />
+
+          <label for="category">Category</label>
+          <select id="category" name="category" required></select>
+
+          <label for="description">Description</label>
+          <textarea id="description" name="description" placeholder="Template with abstract, methodology, results, and references"></textarea>
+
+          <label for="templateFile">Choose template document</label>
+          <input id="templateFile" name="templateFile" type="file" accept=".txt,.pdf,.doc,.docx,.rtf" required />
+
+          <label for="keywords">Extra keywords</label>
+          <input id="keywords" name="keywords" type="text" placeholder="abstract, references, journal" />
+
+          <button type="submit">Save template</button>
+        </form>
+      </section>
+    </main>
+
+    <script src="/script.js"></script>
+  </body>
+</html>

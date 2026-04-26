@@ -1,0 +1,17 @@
+{
+  "name": "document-template-matcher-node",
+  "version": "1.0.0",
+  "description": "Node.js backend for matching uploaded documents to saved templates by document type.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "document",
+    "template",
+    "matcher",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
